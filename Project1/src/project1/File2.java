@@ -9,8 +9,8 @@ package project1;
  *
  * @author Devops
  */
-public class File1 {
+public class File2 {
     public static void main(String[] args){
-        System.out.println("File 1 Content");
+        System.out.println("File 2 Content");
     }
 }
